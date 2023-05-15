@@ -9,6 +9,7 @@ framework:
   version: 1.113.0
   libraries:
     - name: sap.m
+    - name: sap.uxap
     - name: sap.ui.core
     - name: sap.f
     - name: sap.suite.ui.generic.template
