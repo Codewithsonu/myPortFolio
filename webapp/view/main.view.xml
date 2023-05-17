@@ -25,7 +25,7 @@
                     <m:HBox id="_IDGenHBox1">
                         <m:Avatar
                             id="_IDGenAvatar1"
-                            src="sap-icon://picture"
+                            src="../file/pic.png"
                             displaySize="XL"
                             showBorder="true"
                         />
@@ -62,11 +62,19 @@
                 wrap="Wrap"
                 fitContainer="true"
             >
+
                 <m:VBox
                     id="_IDGenVBox2"
                     class="sapUiLargeMarginEnd sapUiSmallMarginBottom"
                 >
-                    <m:Title
+                   
+					 <m:Avatar
+                            id="Avater2ID"
+                            src="../file/pic.png"
+                            displaySize="XL"
+                            showBorder="true"
+                        />
+					 <m:Title
                         id="_IDGenTitle4"
                         text="Email"
                         class="sapUiTinyMarginBottom"
