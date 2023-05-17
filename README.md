@@ -33,4 +33,16 @@ A Fiori application.
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+General info name, designation date of join .etc
+-Education Details 
+-Certification Details,
+-Employment details -->Tree Table
+
+
+in this project we have learn about :
+-Object page layout
+-Tree table
+-Generic titles
+-FlexBox  
+
 

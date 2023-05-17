@@ -1,0 +1,105 @@
+{
+    "name": "sesetti jaswanth",
+    "email": "sesettijaswanth@gmail.com",
+    "designation": "Developer",
+    "phone": "8341690019",
+    "currentcompany": "Infosys Limited ",
+    "education": [
+        {
+            "type": "Xth",
+            "per": "80%",
+            "year": "2015"
+        },
+        {
+            "type": "XIIth",
+            "per": "91%",
+            "year": "2017"
+        },
+        {
+            "type": "B.Tech ECE",
+            "per": "77%",
+            "year": "2021"
+        }
+    ],
+    "certification": [
+        {
+            "name": "SAP UI5",
+            "year": "2023",
+            "icon": "sap-icon://sap-ui5"
+        },
+        {
+            "name": "JavaScript",
+            "year": "2022",
+            "icon": "https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png"
+        },
+        {
+            "name": "Python",
+            "year": "2021",
+            "icon": "https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1"
+        }
+    ],
+    "employment": [
+        {
+            "name":"Team",
+            "projects": [
+                {
+                    "name": "Portal to Ui5 Migration ",
+                    "type01": "Development",
+                    "technology":"UI developer"
+                },
+                {
+                    "name": "Production Support",
+                    "type01": "support",
+                    "technology":"UI developer"
+                }
+            ]
+        },
+        {
+            "name": "Project Work On",
+            "projects": [
+                {
+                    "name": "Portal to UI5 Migration ",
+                    "type01": "Development",
+                    "projects": [
+                        {
+                            "name": "Submit invoice Application(QPAY)",
+                            "type01": "FI",
+                            "technology": "SAP UI5"
+                        },
+                        {
+                            "name": "Invoice Submit",
+                            "type01": "FI",
+                            "technology": "SAP UI5"
+                        },
+                        {
+                            "name": "W2 Online",
+                            "type01": "HR",
+                            "technology": "SAP UI5"
+                        },
+                        {
+                            "name": "Gross Recon",
+                            "type01": "HR",
+                            "technology": "SAP UI5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Production Support",
+                    "type01": "support",
+                    "projects":[
+                        {
+                            "name":"MyShope",
+                            "type01":"FI",
+                            "technology":"sap ui5"
+                        },
+                        {
+                            "name":"Qpay",
+                            "technology":"SAP UI5",
+                            "type01":"FI"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
