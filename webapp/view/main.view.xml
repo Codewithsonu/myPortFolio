@@ -5,10 +5,14 @@
     xmlns:m="sap.m"
     xmlns:t="sap.ui.table"
     height="100%"
+	displayBlock="true"
 >
+<m:App id="_IDGenApp1">
+      <m:pages>
     <ObjectPageLayout
         id="ObjectPageLayout"
         upperCaseAnchorBar="false"
+		useIconTabBar="true"
     >
         <!-- header part -->
         <headerTitle>
@@ -62,18 +66,19 @@
                 wrap="Wrap"
                 fitContainer="true"
             >
+			 <m:Avatar
+                            id="Avater2ID"
+                            src="../file/pic.png"
+                            displaySize="XL"
+                            showBorder="true"
+                        />
 
                 <m:VBox
                     id="_IDGenVBox2"
                     class="sapUiLargeMarginEnd sapUiSmallMarginBottom"
                 >
                    
-					 <m:Avatar
-                            id="Avater2ID"
-                            src="../file/pic.png"
-                            displaySize="XL"
-                            showBorder="true"
-                        />
+					
 					 <m:Title
                         id="_IDGenTitle4"
                         text="Email"
@@ -310,4 +315,8 @@
             </ObjectPageSection>
         </sections>
     </ObjectPageLayout>
+	
+      </m:pages>
+	  </m:App>
+
 </mvc:View>
